@@ -1,2 +1,2 @@
 # CSS-reference
-Basic CSS properties
+Basic CSS and HTML  layout 
